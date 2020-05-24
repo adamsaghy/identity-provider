@@ -1,2 +1,2 @@
-# identity-provider
-Identity provider with OAuth2
+# Identity provider
+OAuth2 Identity provider with Spring Boot
